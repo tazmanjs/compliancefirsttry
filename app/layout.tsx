@@ -1,4 +1,3 @@
-import './globals.css'
 export const metadata = {
   title: 'Nevada + Federal LLC Compliance Tracker',
   description: 'Track your business compliance requirements and deadlines',
